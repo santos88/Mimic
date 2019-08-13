@@ -18,7 +18,7 @@
 To integrate `Mimic` into your Xcode project, add the following to your `Podfile`.
 
 ```ruby
-    pod Mimic, ~> '0.1.0'
+    pod 'Mimic', '~> 0.1.0'
 ```
 
 ## Usage
